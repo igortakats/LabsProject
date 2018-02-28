@@ -10,7 +10,7 @@
     <build>
         <finalName>Teste2</finalName>
     </build>
-    
+    <!-- Teste -->    
     <repositories>
 		<repository>
 			<id>codehaus-mule-repo</id>
